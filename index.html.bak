@@ -140,15 +140,17 @@
             <div class="row">
                 <div class="project shadow-large">
                     <div class="project-image">
-                        <img src="images/project.jpg" />
+                        <img src="images/Smashgg.png" />
                     </div>
                     <!-- End .project-image -->
                     <div class="project-info">
-                        <h3>Project Name Here</h3>
+                        <h3>AutoSeeder</h3>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                            A Python program that automates the seeding of Super Smash Brothers Ultimate tournaments. 
+							I integrated tournament website smash.gg's API with existing online competitor databases and developed a seeding algorithm that creates accurate
+							ratings with limited resource. Algorithm's results are on average 78-91% accurate in comparison to the final seeding.
                         </p>
-                        <a href="#">View Project</a>
+                        <a href="https://github.com/rmacwhor/AutoSeeder">View Project</a>
                     </div>
                     <!-- End .project-info -->
                 </div>
@@ -156,19 +158,87 @@
 
                 <div class="project shadow-large">
                     <div class="project-image">
-                        <img src="images/project.jpg" />
+                        <img src="images/pngegg.png" />
                     </div>
                     <!-- End .project-image -->
                     <div class="project-info">
-                        <h3>Project Name Here</h3>
+                        <h3>Search Engine Class Project</h3>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                            For my information retrieval class, I designed a search engine and all involved underlying mechanisms to perform 
+							information retrieval on a corpus consisting of tens of thousands of UCI websites.
+							I implemented indexing techniques and line-seeking to minimize footprint. Additionally, I optimized searches with tf-idf
+							and champions lists to deliver accurate search results in less than 100 ms.
+							Due to Academic Integrity policies at UCI, there is no public link.
                         </p>
-                        <a href="#">View Project</a>
                     </div>
                     <!-- End .project-info -->
                 </div>
                 <!-- End .project -->
+				
+				<div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="images/jumpmen.png" />
+                    </div>
+                    <!-- End .project-image -->
+                    <div class="project-info">
+                        <h3>Jump Men</h3>
+                        <p>
+                            A competitive two-player platformer racing game. The catch? The jump button is the same for both players. I came up with the initial concept for this game and acted as producer to lead development, as well as some code additions.
+                        </p>
+                        <a href="https://aipysurus.itch.io/jump-men">View Project</a>
+                    </div>
+                    <!-- End .project-info -->
+                </div>
+                <!-- End .project -->
+				
+				<div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="images/colormancy.png" />
+                    </div>
+                    <!-- End .project-image -->
+                    <div class="project-info">
+                        <h3>Colormancy</h3>
+                        <p>
+                            A 3D multiplayer action game that crosses the ideas of Magicka and Splatoon into a colorful masterpiece. I worked on programming camera systems and cutscenes.
+                        </p>
+                        <a href="https://github.com/mandarker/Colormancy">View Project</a>
+                    </div>
+                    <!-- End .project-info -->
+                </div>
+                <!-- End .project -->
+				
+				<div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="images/lullaby.png" />
+                    </div>
+                    <!-- End .project-image -->
+                    <div class="project-info">
+                        <h3>Lullaby for a Silhouette</h3>
+                        <p>
+                            A Metroidvania following the adventures of a vampiric young girl and her cranky crow companion. I oversaw production of the game to completion.
+                        </p>
+                        <a href="https://luke-miller.itch.io/lullaby-for-a-silhouette">View Project</a>
+                    </div>
+                    <!-- End .project-info -->
+                </div>
+                <!-- End .project -->
+				
+				<div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="images/lightinthedark.png" />
+                    </div>
+                    <!-- End .project-image -->
+                    <div class="project-info">
+                        <h3>Light in the Dark</h3>
+                        <p>
+                            A narrative resource management game where you distribute energy to a damaged space station and desperately keep systems running. I oversaw production of the game to completion.
+                        </p>
+                        <a href="https://luke-miller.itch.io/lullaby-for-a-silhouette">View Project</a>
+                    </div>
+                    <!-- End .project-info -->
+                </div>
+                <!-- End .project -->
+				
             </div>
         </div>
     </div>
@@ -195,7 +265,7 @@
     <div id="contact">
         <h2>Get in Touch</h2>
         <div id="contact-form">
-            <form method="POST" action="https://formspree.io/email@email.com">
+            <form method="POST" action="https://formspree.io/f/mzbynlvo">
                 <input type="hidden" name="_subject" value="Contact request from personal website" />
                 <input type="email" name="_replyto" placeholder="Your email" required>
                 <textarea name="message" placeholder="Your message" required></textarea>
@@ -222,22 +292,10 @@
                 <div class="col-sm-5 social">
                     <ul>
                         <li>
-                            <a href="https://github.com/" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+                            <a href="https://github.com/rmacwhor" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="https://stackoverflow.com/" target="_blank"><i class="fa fa-stack-overflow" aria-hidden="true"></i></a>
-                        </li>
-                        <li>
-                            <a href="https://linkedin.com/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-                        </li>
-                        <li>
-                            <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                        </li>
-                        <li>
-                            <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                        </li>
-                        <li>
-                            <a href="https://plus.google.com/" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                            <a href="https://www.linkedin.com/in/ryan-scott-macwhorter-7b0390172/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                         </li>
                     </ul>
                 </div>
